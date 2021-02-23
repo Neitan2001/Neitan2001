@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(He/Him)I'm a software engineer student at UnB (University of Brasilia) and current working at Orc'estra Gamificação as a web developer. I'm always trying to learn everything I can and use it to improve my work. You can reach me trough:
+(He/Him)I'm a software engineer student at UnB (University of Brasilia) and current working at Orc'estra Gamificação as a web developer. I'm always trying to learn everything I can and use it to improve my work. You can reach me through:
 - Email: natanestudante2001@hotmail.com
 - Linkedin: https://www.linkedin.com/in/natan-tavares-santana-aa19651b3/
