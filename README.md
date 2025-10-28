@@ -1,19 +1,16 @@
-### Hello there 👋
+### Olá 👋 (Ele/Dele)
 
-<!--
-**Neitan2001/Neitan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Natan Santana, um Desenvolvedor Fullstack e Engenheiro de Software recém-formado pela Universidade de Brasília (UnB).
 
-Here are some ideas to get you started:
+Sou o fundador e principal desenvolvedor do **[Código-QL](https://github.com/Codigo-QL)**, um projeto de TCC open-source que se tornou uma plataforma educacional completa. O objetivo é criar uma abordagem prática e lúdica para o ensino de consultas SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-(He/Him)I'm a software engineer student at UnB (University of Brasilia) and current working at Gino Terentim as a Fullstack Developer. I'm always trying to learn everything I can and use it to improve my work. You can reach me through:
-- Email: natan.santana.dev@gmail.com
-- Linkedin: https://www.linkedin.com/in/natan-tavares-santana-aa19651b3/
+- 🚀 Focado no desenvolvimento de aplicações com **React, Node.js, Java e Angular**.
+- 💡 Apaixonado por criar soluções que causem impacto, especialmente nas áreas de educação, gamificação e automação de IA.
+- 📖 Buscando ativamente por novas oportunidades para aplicar e expandir minhas habilidades.
+
+---
+
+### 📫 Vamos nos conectar:
+
+- **Email:** natan.santana.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/natantavaressantana](https://www.linkedin.com/in/natantavaressantana)
